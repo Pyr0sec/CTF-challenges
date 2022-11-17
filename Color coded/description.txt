@@ -1,0 +1,4 @@
+Name : Co1or_c0ded
+Category : crypto
+level : easy
+creator : Pyrosec
